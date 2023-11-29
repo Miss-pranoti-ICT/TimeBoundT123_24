@@ -1,0 +1,27 @@
+.title1{ /* 1/2 mark */
+    font-size: 40px;  /* 1/2 mark */
+    text-align: center; /* 1/2 mark */
+    font-family: "Comic Sans MS", "Comic Sans", cursive; /* 1/2 mark */
+}
+#banner1{ /* 1/2 mark */
+    border-radius: 50%; /* 1/2 mark */
+}
+#banner1:hover{ /* 1/2 mark */
+    border: 5px outset #432fa3; /* 1/2 mark */
+}
+table,td,th{ /* 1/2 mark */
+    background-color: #c98aeb; /* 1/2 mark */
+    border:4px inset rgb(61, 7, 89);  /* 1 mark */
+    padding: 10px; /* 1/2 mark */
+    border-collapse: collapse; /* 1/2 mark */
+    text-align: left; /* 1/2 mark */
+    color: #343236; /* 1/2 mark */
+}
+
+td:hover,th:hover{ /* 1/2 mark */
+    background-color: #3d0759; /* 1/2 mark */
+    color: white; /* 1/2 mark */
+}
+
+
+
